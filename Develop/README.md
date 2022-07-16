@@ -1,5 +1,5 @@
-# Heroku
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Coffeefinder
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 1. [Description](#description)
 2. [Usage](#usage)
@@ -9,23 +9,23 @@
 6. [Questions](#email) 
 
 ## Description 
-It is used by heros.
+An app that locates coffee near you.
 
 ## Usage
-To contact the dead.
+To assist users in locating coffee
 
 ## Installation
-Ouija board
+Will be available in both iTunes and GooglePlay
 
 ## License
-Apache
+MIT
 
 ## Contributing
-Joan
+Joe and Java
 
 ## Tests
-Summoning demons
+Creamer
 
 ## Questions
-For any application questions please contact me at joe@joe.com or
-www.github.com/raisinghell
+For any application questions please contact me at coffeeisgood@java.com or
+www.github.com/mattchublue
